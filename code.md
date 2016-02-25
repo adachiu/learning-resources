@@ -6,3 +6,6 @@ This is a collection of resources I'm using to learn how to code.
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents)
 * [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 * [Pattern Lab](http://patternlab.io)
+
+## Video, Gifs ##
+* [MtMograph summits](http://mtmograph.com/summits/)
