@@ -10,9 +10,15 @@ This is a collection of resources I'm using to learn how to code.
 ### Video, Gifs ###
 * [MtMograph summits](http://mtmograph.com/summits/)
 
+### iOS Design and Xcode ###
+* [design+code](https://designcode.io/learn) — Mengto Resource;
+
 ### Inspiration ###
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
+
+### Hackathons ###
+* [Devpost](http://devpost.com/) — list of hackathon opportunities;
 
 ### Awards ###
 * [Awwwards](http://awwwards.com/websites/animation/) – websites examples of designs with animation;
