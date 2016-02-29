@@ -13,11 +13,15 @@ This is a collection of resources I'm using to learn how to code.
 ### Responsive Design ###
 * [Google Resizer](http://design.google.com/resizer/)
 
-### Video, Gifs ###
-* [MtMograph summits](http://mtmograph.com/summits/)
+### JavaScript ###
+* [Framework — Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
+* [Framework — D3](d3js.org) — Data visualization for web applications
 
 ### Animation ###
-* [Layout Library](http://samsarajs.org/) — SamsaraJS
+* [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
+
+### Video, Gifs ###
+* [MtMograph summits](http://mtmograph.com/summits/)
 
 ### iOS Design and Xcode ###
 * [design+code](https://designcode.io/learn) — Mengto Resource;
