@@ -31,7 +31,10 @@ This is a collection of resources I'm using to learn how to code.
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
 
 ### Resource ###
-* [Google Design](https://design.google.com/) 
+* [Google Design](https://design.google.com/)
+
+### Open Source ###
+* [OSS Perks](http://ossperks.com/) — list of free tools and services
 
 ### Hackathons ###
 * [Devpost](http://devpost.com/) — list of hackathon opportunities;
