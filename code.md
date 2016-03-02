@@ -19,7 +19,9 @@ This is a collection of resources I'm using to learn how to code.
 * [Framework — D3](d3js.org) — Data visualization for web applications
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript for Cats](http://jsforcats.com)
+#### React ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
+* [React Fundamentals Egghead.io](https://egghead.io/series/react-fundamentals) — free/paid
 
 ### Animation ###
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
