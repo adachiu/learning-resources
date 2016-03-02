@@ -12,6 +12,7 @@ This is a collection of resources I'm using to learn how to code.
 
 ### Responsive Design ###
 * [Google Resizer](http://design.google.com/resizer/)
+* [Can I Use?](http://caniuse.com) 
 
 ### JavaScript ###
 * [Framework — Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
@@ -39,6 +40,9 @@ This is a collection of resources I'm using to learn how to code.
 
 ### Git ###
 * [Gitignore.io](https://www.gitignore.io/)
+
+### Markdown ###
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Hackathons ###
 * [Devpost](http://devpost.com/) — list of hackathon opportunities;
