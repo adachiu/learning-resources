@@ -17,6 +17,8 @@ This is a collection of resources I'm using to learn how to code.
 ### JavaScript ###
 * [Framework — Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
 * [Framework — D3](d3js.org) — Data visualization for web applications
+* [Eloquent JavaScript](http://eloquentjavascript.net)
+* [JavaScript for Cats](http://jsforcats.com)
 
 ### Animation ###
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
