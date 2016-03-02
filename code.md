@@ -14,6 +14,8 @@ This is a collection of resources I'm using to learn how to code.
 * [Google Resizer](http://design.google.com/resizer/)
 * [Can I Use?](http://caniuse.com) 
 
+---
+
 ### JavaScript ###
 * [Framework — Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
 * [Framework — D3](d3js.org) — Data visualization for web applications
@@ -23,6 +25,8 @@ This is a collection of resources I'm using to learn how to code.
 #### React ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
 * [React Fundamentals Egghead.io](https://egghead.io/series/react-fundamentals) — free/paid
+
+---
 
 ### Animation ###
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
