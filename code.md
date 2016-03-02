@@ -28,20 +28,28 @@ This is a collection of resources I'm using to learn how to code.
 
 ---
 
-### Animation ###
+### Motion ###
+
+#### Animation ####
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
 
-### Video, Gifs ###
+#### Video, Gifs ####
 * [MtMograph summits](http://mtmograph.com/summits/)
 
-### iOS Design and Xcode ###
+---
+
+### iOS ###
+
+#### iOS Design and Xcode ####
 * [design+code](https://designcode.io/learn) — Mengto Resource;
+
+---
 
 ### Inspiration ###
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
 
-### Resource ###
+### Resources ###
 * [Google Design](https://design.google.com/)
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
 
