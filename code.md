@@ -1,4 +1,4 @@
-# Learn to Code #
+# Unicorn Path #
 
 This is a collection of resources I'm using to learn how to code.
 
@@ -14,11 +14,15 @@ This is a collection of resources I'm using to learn how to code.
 * [Google Resizer](http://design.google.com/resizer/)
 * [Can I Use?](http://caniuse.com) 
 
+### Web Design ###
+* [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/) 
+
 ---
 
 ### JavaScript ###
 * [Framework — Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
 * [Framework — D3](d3js.org) — Data visualization for web applications
+* [Ultimate Guide to Learning AngularJS in One Day](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript for Cats](http://jsforcats.com)
 
