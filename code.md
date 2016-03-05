@@ -36,6 +36,7 @@ This is a collection of resources I'm using to learn how to code.
 
 #### Animation ####
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
+* [Easings](http://easings.net/)
 
 #### Video, Gifs ####
 * [MtMograph summits](http://mtmograph.com/summits/)
