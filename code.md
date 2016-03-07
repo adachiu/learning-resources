@@ -6,6 +6,9 @@ This is a collection of resources I'm using to learn how to code.
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents)
 * [Pattern Lab](http://patternlab.io)
 
+#### Sass ####
+* [The Sass Way](http://thesassway.com/) — tutorials
+
 ### Style Guide ###
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
 * [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
