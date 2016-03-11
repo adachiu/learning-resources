@@ -77,3 +77,9 @@ This is a collection of resources I'm using to learn how to code.
 ### Awards ###
 * [Awwwards](http://awwwards.com/websites/animation/) – websites examples of designs with animation;
 
+---
+
+### Hosting ###
+* [GitHub Page](https://pages.github.com/)
+* [Surge](http://surge.sh/) — Static web publishing
+
