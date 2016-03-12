@@ -54,6 +54,11 @@ This is a collection of resources I'm using to learn how to code.
 
 ---
 
+### Command Line ###
+* [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+
+---
+
 ### Inspiration ###
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
