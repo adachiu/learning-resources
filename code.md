@@ -68,6 +68,7 @@ This is a collection of resources I'm using to learn how to code.
 ### Resources ###
 * [Google Design](https://design.google.com/)
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
+* [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
 
 ### Open Source ###
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
