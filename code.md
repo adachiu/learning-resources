@@ -87,4 +87,5 @@ This is a collection of resources I'm using to learn how to code.
 ### Hosting ###
 * [GitHub Page](https://pages.github.com/)
 * [Surge](http://surge.sh/) — Static web publishing
+* [Introducing Surge](https://medium.com/surge-sh/introducing-surge-the-cdn-for-front-end-developers-b4a50a61bcfc#.3w0m44vir)
 
