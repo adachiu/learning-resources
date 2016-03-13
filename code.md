@@ -53,7 +53,8 @@ This is a collection of resources I'm using to learn how to code.
 
 #### iOS Design and Xcode ####
 * [design+code](https://designcode.io/learn) — Mengto Resource;
-
+* [Apple Swift](https://developer.apple.com/swift/resources/)
+* [Raywenderlich Tutorials](https://www.raywenderlich.com/) — Community
 ---
 
 ### Command Line ###
