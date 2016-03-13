@@ -10,6 +10,7 @@ This is a collection of resources I'm using to learn how to code.
 
 #### Sass ####
 * [The Sass Way](http://thesassway.com/) — tutorials
+* [Sassisfaction](http://sassisfaction.com/) — Resources
 
 ### Style Guide ###
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
