@@ -6,6 +6,7 @@ This is a collection of resources I'm using to learn how to code.
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents)
 * [Pattern Lab](http://patternlab.io)
 * [Amburgers](https://jonsuh.com/hamburgers/) — CSS hamburger menus
+* [A Complete Reading List for CSSw](http://thenewcode.com/919/A-Complete-Reading-List-For-CSS)
 
 #### Sass ####
 * [The Sass Way](http://thesassway.com/) — tutorials
@@ -19,7 +20,8 @@ This is a collection of resources I'm using to learn how to code.
 * [Can I Use?](http://caniuse.com) 
 
 ### Web Design ###
-* [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/) 
+* [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+
 
 ---
 
