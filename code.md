@@ -7,6 +7,7 @@ This is a collection of resources I'm using to learn how to code.
 * [Pattern Lab](http://patternlab.io)
 * [Amburgers](https://jonsuh.com/hamburgers/) — CSS hamburger menus
 * [A Complete Reading List for CSS](http://thenewcode.com/919/A-Complete-Reading-List-For-CSS)
+* [CSS-Tricks The Lodge](https://css-tricks.com/lodge/)
 
 #### Sass ####
 * [The Sass Way](http://thesassway.com/) — tutorials
@@ -47,8 +48,7 @@ This is a collection of resources I'm using to learn how to code.
 
 #### Video, Gifs ####
 * [MtMograph summits](http://mtmograph.com/summits/)
-
----
+* [Principle Repo](http://principlerepo.com/)
 
 ### iOS ###
 
