@@ -70,6 +70,7 @@ This is a collection of resources I'm using to learn how to code.
 ### Inspiration ###
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
+* [bl.ocks.org](http://bl.ocks.org/)
 
 ### Resources ###
 * [Google Design](https://design.google.com/)
