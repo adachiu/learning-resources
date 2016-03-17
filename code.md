@@ -28,15 +28,16 @@ This is a collection of resources I'm using to learn how to code.
 ---
 
 ### JavaScript ###
-* [Framework — Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
-* [Framework — D3](d3js.org) — Data visualization for web applications
-* [Ultimate Guide to Learning AngularJS in One Day](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+* [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript for Cats](http://jsforcats.com)
+* [Ultimate Guide to Learning AngularJS in One Day](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
-#### React ####
+#### JS Frameworks ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
 * [React Fundamentals Egghead.io](https://egghead.io/series/react-fundamentals) — free/paid
+* [Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
+* [D3](d3js.org) — Data visualization for web applications
 
 ---
 
