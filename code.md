@@ -23,7 +23,7 @@ This is a collection of resources I'm using to learn how to code.
 
 ### Web Design ###
 * [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
-
+* [TheCodePlayer](http://thecodeplayer.com/) — Video Walkthroughs of cool stuff
 
 ---
 
@@ -32,6 +32,7 @@ This is a collection of resources I'm using to learn how to code.
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript for Cats](http://jsforcats.com)
 * [Ultimate Guide to Learning AngularJS in One Day](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+* [JavaScript in HTML5 Dog Tutorials](http://www.htmldog.com/guides/javascript/)
 
 #### JS Frameworks and Libraries ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
@@ -63,11 +64,6 @@ This is a collection of resources I'm using to learn how to code.
 
 ---
 
-### Command Line ###
-* [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-
----
-
 ### Inspiration ###
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
@@ -81,11 +77,21 @@ This is a collection of resources I'm using to learn how to code.
 ### Open Source ###
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
 
+---
+
+### Command Line ###
+* [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Command Line Power User](http://commandlinepoweruser.com/) — Wes Bos
+* [Conquering the Command Line](http://conqueringthecommandline.com/book/) — free book
+
 ### Git ###
 * [Gitignore.io](https://www.gitignore.io/)
+* [Git Immersion](http://gitimmersion.com/)
 
 ### Markdown ###
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+---
 
 ### Hackathons ###
 * [Devpost](http://devpost.com/) — list of hackathon opportunities;
