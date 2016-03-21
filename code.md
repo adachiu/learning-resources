@@ -63,7 +63,20 @@ This is a collection of resources I'm using to learn how to code.
 * [Apple Swift](https://developer.apple.com/swift/resources/)
 * [Raywenderlich Tutorials](https://www.raywenderlich.com/) — Community
 
----
+
+## Command Line ##
+* [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Command Line Power User](http://commandlinepoweruser.com/) — Wes Bos
+* [Conquering the Command Line](http://conqueringthecommandline.com/book/) — free book
+
+#### Git ####
+* [Gitignore.io](https://www.gitignore.io/)
+* [Git Immersion](http://gitimmersion.com/)
+
+#### Markdown ####
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Other ##
 
 #### Inspiration ####
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
@@ -78,28 +91,11 @@ This is a collection of resources I'm using to learn how to code.
 #### Open Source ####
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
 
-
-## Command Line ##
-* [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* [Command Line Power User](http://commandlinepoweruser.com/) — Wes Bos
-* [Conquering the Command Line](http://conqueringthecommandline.com/book/) — free book
-
-#### Git ####
-* [Gitignore.io](https://www.gitignore.io/)
-* [Git Immersion](http://gitimmersion.com/)
-
-#### Markdown ####
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
----
-
 #### Hackathons ####
 * [Devpost](http://devpost.com/) — list of hackathon opportunities;
 
 #### Awards ####
 * [Awwwards](http://awwwards.com/websites/animation/) – websites examples of designs with animation;
-
----
 
 #### Hosting ####
 * [GitHub Page](https://pages.github.com/)
