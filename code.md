@@ -15,7 +15,6 @@ This is a collection of resources I'm using to learn how to code.
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
 * [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 
----
 
 ## Languages ##
 
@@ -45,7 +44,6 @@ This is a collection of resources I'm using to learn how to code.
 * [D3](d3js.org) — Data visualization for web applications
 * [CDNjs](https://cdnjs.com/libraries)
 
----
 
 ## Motion ##
 
@@ -57,7 +55,6 @@ This is a collection of resources I'm using to learn how to code.
 * [MtMograph summits](http://mtmograph.com/summits/)
 * [Principle Repo](http://principlerepo.com/)
 
----
 
 ## iOS ##
 
@@ -81,7 +78,6 @@ This is a collection of resources I'm using to learn how to code.
 #### Open Source ####
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
 
----
 
 ## Command Line ##
 * [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
