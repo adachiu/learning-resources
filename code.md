@@ -2,7 +2,24 @@
 
 This is a collection of resources I'm using to learn how to code.
 
-## CSS ##
+
+## Web Design ##
+* [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+* [TheCodePlayer](http://thecodeplayer.com/) — Video Walkthroughs of cool stuff
+
+#### Responsive Design ####
+* [Google Resizer](http://design.google.com/resizer/)
+* [Can I Use?](http://caniuse.com) 
+
+#### Style Guide ####
+* [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
+* [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
+
+---
+
+## Languages ##
+
+#### CSS ####
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents)
 * [Pattern Lab](http://patternlab.io)
 * [Amburgers](https://jonsuh.com/hamburgers/) — CSS hamburger menus
@@ -14,21 +31,7 @@ This is a collection of resources I'm using to learn how to code.
 * [The Sass Way](http://thesassway.com/) — tutorials
 * [Sassisfaction](http://sassisfaction.com/) — Resources
 
-### Style Guide ###
-* [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
-* [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
-
-### Responsive Design ###
-* [Google Resizer](http://design.google.com/resizer/)
-* [Can I Use?](http://caniuse.com) 
-
-### Web Design ###
-* [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
-* [TheCodePlayer](http://thecodeplayer.com/) — Video Walkthroughs of cool stuff
-
----
-
-### JavaScript ###
+#### JavaScript ####
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript for Cats](http://jsforcats.com)
@@ -44,7 +47,7 @@ This is a collection of resources I'm using to learn how to code.
 
 ---
 
-### Motion ###
+## Motion ##
 
 #### Animation ####
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
@@ -56,7 +59,7 @@ This is a collection of resources I'm using to learn how to code.
 
 ---
 
-### iOS ###
+## iOS ##
 
 #### iOS Design and Xcode ####
 * [design+code](https://designcode.io/learn) — Mengto Resource;
@@ -65,44 +68,44 @@ This is a collection of resources I'm using to learn how to code.
 
 ---
 
-### Inspiration ###
+#### Inspiration ####
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
 * [bl.ocks.org](http://bl.ocks.org/)
 
-### Resources ###
+#### Resources ####
 * [Google Design](https://design.google.com/)
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
 * [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
 
-### Open Source ###
+#### Open Source ####
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
 
 ---
 
-### Command Line ###
+## Command Line ##
 * [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Command Line Power User](http://commandlinepoweruser.com/) — Wes Bos
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/) — free book
 
-### Git ###
+#### Git ####
 * [Gitignore.io](https://www.gitignore.io/)
 * [Git Immersion](http://gitimmersion.com/)
 
-### Markdown ###
+#### Markdown ####
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
 
-### Hackathons ###
+#### Hackathons ####
 * [Devpost](http://devpost.com/) — list of hackathon opportunities;
 
-### Awards ###
+#### Awards ####
 * [Awwwards](http://awwwards.com/websites/animation/) – websites examples of designs with animation;
 
 ---
 
-### Hosting ###
+#### Hosting ####
 * [GitHub Page](https://pages.github.com/)
 * [Surge](http://surge.sh/) — Static web publishing
 * [Introducing Surge](https://medium.com/surge-sh/introducing-surge-the-cdn-for-front-end-developers-b4a50a61bcfc#.3w0m44vir)
