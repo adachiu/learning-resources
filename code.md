@@ -2,7 +2,7 @@
 
 This is a collection of resources I'm using to learn how to code.
 
-### CSS ###
+## CSS ##
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents)
 * [Pattern Lab](http://patternlab.io)
 * [Amburgers](https://jonsuh.com/hamburgers/) — CSS hamburger menus
