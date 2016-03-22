@@ -1,6 +1,6 @@
 # Unicorn Path #
 
-This is a collection of resources I'm using to learn how to code.
+A collection of learning resources for Front-end Dev and Design.
 
 
 ## Web Design ##
