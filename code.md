@@ -9,7 +9,9 @@ A collection of learning resources for Front-end Dev and Design.
 
 #### Responsive Design ####
 * [Google Resizer](http://design.google.com/resizer/)
-* [Can I Use?](http://caniuse.com) 
+* [Can I Use?](http://caniuse.com)
+* [Responsive Patterns - Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
+* [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
 
 #### Style Guide ####
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
@@ -87,7 +89,6 @@ A collection of learning resources for Front-end Dev and Design.
 #### Resources ####
 * [Google Design](https://design.google.com/)
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
-* [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
 
 #### Open Source ####
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
@@ -100,6 +101,7 @@ A collection of learning resources for Front-end Dev and Design.
 
 #### Hosting ####
 * [GitHub Page](https://pages.github.com/)
+* [HTTPS GitHub Page with CloudFlare](https://s10wen.com/blog/2015/12/07/free-simple-https-github-pages-cloudflare/)
 * [Surge](http://surge.sh/) — Static web publishing
 * [Introducing Surge](https://medium.com/surge-sh/introducing-surge-the-cdn-for-front-end-developers-b4a50a61bcfc#.3w0m44vir)
 
