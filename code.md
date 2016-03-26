@@ -38,6 +38,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [JavaScript for Cats](http://jsforcats.com)
 * [Ultimate Guide to Learning AngularJS in One Day](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 * [JavaScript in HTML5 Dog Tutorials](http://www.htmldog.com/guides/javascript/)
+* [Speaking JavaScript Online Book](http://speakingjs.com/es5/)
 
 #### JS Frameworks and Libraries ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
@@ -89,6 +90,7 @@ A collection of learning resources for Front-end Dev and Design.
 #### Resources ####
 * [Google Design](https://design.google.com/)
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
+* [Ebooks](http://it-ebooks.info/)
 
 #### Open Source ####
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
