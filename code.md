@@ -57,6 +57,7 @@ A collection of learning resources for Front-end Dev and Design.
 #### Video, Gifs ####
 * [MtMograph summits](http://mtmograph.com/summits/)
 * [Principle Repo](http://principlerepo.com/)
+* [Gif Editor](http://ezgif.com/)
 
 
 ## iOS ##
