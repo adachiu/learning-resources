@@ -12,6 +12,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [Can I Use?](http://caniuse.com)
 * [Responsive Patterns - Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
 * [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
+* [Spec Specifics](http://spec.fm/specifics/8-pt-grid) — Guidelines (8 point grid)
 
 #### Style Guide ####
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
