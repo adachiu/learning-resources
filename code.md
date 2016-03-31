@@ -79,6 +79,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [Gitignore.io](https://www.gitignore.io/)
 * [Git Immersion](http://gitimmersion.com/)
 * [Git Hot Tips](http://wesbos.com/git-hot-tips/) — Wes Bos
+* [GitHowTo](https://githowto.com/)
 
 #### Markdown ####
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
