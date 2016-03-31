@@ -74,6 +74,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Command Line Power User](http://commandlinepoweruser.com/) — Wes Bos
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/) — free book
+* [NPM install](https://coolestguidesontheplanet.com/installing-node-js-on-osx-10-10-yosemite/)
 
 #### Git ####
 * [Gitignore.io](https://www.gitignore.io/)
