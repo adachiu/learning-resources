@@ -95,6 +95,11 @@ A collection of learning resources for Front-end Dev and Design.
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
 * [Ebooks](http://it-ebooks.info/)
 
+#### SEO ####
+* [Robots.txt](https://varvy.com/robottxt.html)
+* [Google Guideline Test](https://varvy.com/)
+* [Three Laws of Robots.txt](https://www.cigital.com/blog/three-laws-robots-txt/)
+
 #### Open Source ####
 * [OSS Perks](http://ossperks.com/) — list of free tools and services
 
