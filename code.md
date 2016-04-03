@@ -29,6 +29,9 @@ A collection of learning resources for Front-end Dev and Design.
 * [CSS-Tricks The Lodge](https://css-tricks.com/lodge/)
 * [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 
+#### Templating ####
+* [SWIG](http://paularmstrong.github.io/swig/)
+
 #### Sass ####
 * [The Sass Way](http://thesassway.com/) — tutorials
 * [Sassisfaction](http://sassisfaction.com/) — Resources
