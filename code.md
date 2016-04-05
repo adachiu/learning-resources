@@ -17,6 +17,7 @@ A collection of learning resources for Front-end Dev and Design.
 #### Style Guide ####
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
 * [Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
+* [Frontify](https://frontify.com/)
 
 
 ## Languages ##
