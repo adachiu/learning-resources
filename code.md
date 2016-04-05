@@ -94,6 +94,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
 * [bl.ocks.org](http://bl.ocks.org/)
+* [Techies Project](http://www.techiesproject.com/)
 
 #### Resources ####
 * [Google Design](https://design.google.com/)
