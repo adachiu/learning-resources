@@ -36,6 +36,7 @@ A collection of learning resources for Front-end Dev and Design.
 #### Sass ####
 * [The Sass Way](http://thesassway.com/) — tutorials
 * [Sassisfaction](http://sassisfaction.com/) — Resources
+* [Bourbon-Neat-Bitters Tutorial by Tower](https://www.git-tower.com/learn/bourbon-neat-bitters/getting-ready/introduction)
 
 #### JavaScript ####
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
