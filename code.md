@@ -12,7 +12,8 @@ A collection of learning resources for Front-end Dev and Design.
 * [Can I Use?](http://caniuse.com)
 * [Responsive Patterns - Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
 * [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
-* [Spec Specifics](http://spec.fm/specifics/8-pt-grid) — Guidelines (8 point grid)
+* [Complete Guide to Grid — CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 
 #### Style Guide ####
 * [Salesforce design system](http://www.lightningdesignsystem.com/design/motion/) — Principles
@@ -24,10 +25,10 @@ A collection of learning resources for Front-end Dev and Design.
 
 #### CSS ####
 * [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents)
-* [Pattern Lab](http://patternlab.io)
 * [A Complete Reading List for CSS](http://thenewcode.com/919/A-Complete-Reading-List-For-CSS)
 * [CSS-Tricks The Lodge](https://css-tricks.com/lodge/)
 * [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
+http://codepen.io/patterns
 
 *** CSS Libraries ***
 * [https://codyhouse.co/library/]
@@ -35,6 +36,7 @@ A collection of learning resources for Front-end Dev and Design.
 
 #### Templating ####
 * [SWIG](http://paularmstrong.github.io/swig/)
+* [Pattern Lab](http://patternlab.io)
 
 #### Sass ####
 * [The Sass Way](http://thesassway.com/) — tutorials
@@ -76,6 +78,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [design+code](https://designcode.io/learn) — Mengto Resource;
 * [Apple Swift](https://developer.apple.com/swift/resources/)
 * [Raywenderlich Tutorials](https://www.raywenderlich.com/) — Community
+* [Spec Specifics](http://spec.fm/specifics/8-pt-grid) — Guidelines (8 point grid)
 
 
 ## Command Line ##
