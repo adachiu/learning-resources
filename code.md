@@ -29,6 +29,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [CSS-Tricks The Lodge](https://css-tricks.com/lodge/)
 * [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 http://codepen.io/patterns
+* [SVG icons How-To](http://fvsch.com/code/svg-icons/how-to/) — tutorial step by step
 
 *** CSS Libraries ***
 * [https://codyhouse.co/library/]
