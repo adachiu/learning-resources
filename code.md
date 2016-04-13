@@ -29,11 +29,14 @@ A collection of learning resources for Front-end Dev and Design.
 * [CSS-Tricks The Lodge](https://css-tricks.com/lodge/)
 * [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 http://codepen.io/patterns
-* [SVG icons How-To](http://fvsch.com/code/svg-icons/how-to/) — tutorial step by step
+* [Holy Grail Layout with CSS grid — CSS Grid Layout Module](http://bitsofco.de/holy-grail-layout-css-grid/)
 
 *** CSS Libraries ***
 * [https://codyhouse.co/library/]
 * [Amburgers](https://jonsuh.com/hamburgers/) — CSS hamburger menus
+
+#### SVG ####
+* [SVG icons How-To](http://fvsch.com/code/svg-icons/how-to/) — tutorial step by step
 
 #### Templating ####
 * [SWIG](http://paularmstrong.github.io/swig/)
