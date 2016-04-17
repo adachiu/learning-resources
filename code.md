@@ -110,6 +110,7 @@ http://codepen.io/patterns
 * [Getting Started with Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/)
 * [Yes We Jekyll](http://yeswejekyll.com/) — structure explanation
 * [Jekyll Themes](http://jekyllthemes.org/)
+* [Jekyll Plugins](http://www.jekyll-plugins.com/)
 
 ## Other ##
 
