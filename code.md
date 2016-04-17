@@ -39,6 +39,7 @@ http://codepen.io/patterns
 * [SVG icons How-To](http://fvsch.com/code/svg-icons/how-to/) — tutorial step by step
 
 #### Templating ####
+* [Liquid](https://github.com/Shopify/liquid/wiki#who-uses-liquid)
 * [SWIG](http://paularmstrong.github.io/swig/)
 * [Pattern Lab](http://patternlab.io)
 
@@ -99,6 +100,10 @@ http://codepen.io/patterns
 
 #### Markdown ####
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+#### Jekyll ####
+* [Jekyll Kickoff](https://github.com/jenmyers/jekyll-kickoff) — minimal beginner template
+* [Jekyll and Poole](http://joshualande.com/jekyll-github-pages-poole/) — blog article
 
 ## Other ##
 
