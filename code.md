@@ -103,6 +103,7 @@ http://codepen.io/patterns
 
 #### Jekyll ####
 * [Jekyll Docs](https://jekyllrb.com/docs/home/)
+*[Explain Like I'm Five: Jekyll Collections](http://ben.balter.com/2015/02/20/jekyll-collections/)
 * [Jekyll Kickoff](https://github.com/jenmyers/jekyll-kickoff) — minimal beginner template
 * [Jekyll and Poole](http://joshualande.com/jekyll-github-pages-poole/) — blog article
 * [Building a Website with Jekyll](https://www.andrewmunsell.com/lesson/building-a-website-with-jekyll/) — structure explanation
