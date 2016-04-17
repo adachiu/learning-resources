@@ -102,8 +102,13 @@ http://codepen.io/patterns
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### Jekyll ####
+* [Jekyll Docs](https://jekyllrb.com/docs/home/)
 * [Jekyll Kickoff](https://github.com/jenmyers/jekyll-kickoff) — minimal beginner template
 * [Jekyll and Poole](http://joshualande.com/jekyll-github-pages-poole/) — blog article
+* [Building a Website with Jekyll](https://www.andrewmunsell.com/lesson/building-a-website-with-jekyll/) — structure explanation
+* [Getting Started with Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/)
+* [Yes We Jekyll](http://yeswejekyll.com/) — structure explanation
+* [Jekyll Themes](http://jekyllthemes.org/)
 
 ## Other ##
 
