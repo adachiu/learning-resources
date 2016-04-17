@@ -111,6 +111,7 @@ http://codepen.io/patterns
 * [Yes We Jekyll](http://yeswejekyll.com/) — structure explanation
 * [Jekyll Themes](http://jekyllthemes.org/)
 * [Jekyll Plugins](http://www.jekyll-plugins.com/)
+* [Prose.io](http://prose.io/) — Content Editor for GitHub
 
 ## Other ##
 
