@@ -13,6 +13,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [Responsive Patterns - Brad Frost](http://bradfrost.github.io/this-is-responsive/patterns.html)
 * [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
 * [Complete Guide to Grid — CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [PX, EM or REM Media Queries](http://zellwk.com/blog/media-query-units/)
 
 
 #### Style Guide ####
@@ -120,6 +121,9 @@ http://codepen.io/patterns
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
 * [bl.ocks.org](http://bl.ocks.org/)
 * [Techies Project](http://www.techiesproject.com/)
+
+#### Watch ####
+* [F8 Videos On Demand](https://developers.facebook.com/videos/)
 
 #### Resources ####
 * [Google Design](https://design.google.com/)
