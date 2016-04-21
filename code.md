@@ -104,7 +104,7 @@ http://codepen.io/patterns
 
 #### Jekyll ####
 * [Jekyll Docs](https://jekyllrb.com/docs/home/)
-*[Explain Like I'm Five: Jekyll Collections](http://ben.balter.com/2015/02/20/jekyll-collections/)
+* [Explain Like I'm Five: Jekyll Collections](http://ben.balter.com/2015/02/20/jekyll-collections/)
 * [Jekyll Kickoff](https://github.com/jenmyers/jekyll-kickoff) — minimal beginner template
 * [Jekyll and Poole](http://joshualande.com/jekyll-github-pages-poole/) — blog article
 * [Building a Website with Jekyll](https://www.andrewmunsell.com/lesson/building-a-website-with-jekyll/) — structure explanation
@@ -117,10 +117,11 @@ http://codepen.io/patterns
 ## Other ##
 
 #### Inspiration ####
-* [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
-* [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
+* [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments
+* [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox
 * [bl.ocks.org](http://bl.ocks.org/)
 * [Techies Project](http://www.techiesproject.com/)
+* [GUI and HUD](http://www.hudsandguis.com/)
 
 #### Watch ####
 * [F8 Videos On Demand](https://developers.facebook.com/videos/)
@@ -150,4 +151,3 @@ http://codepen.io/patterns
 * [HTTPS GitHub Page with CloudFlare](https://s10wen.com/blog/2015/12/07/free-simple-https-github-pages-cloudflare/)
 * [Surge](http://surge.sh/) — Static web publishing
 * [Introducing Surge](https://medium.com/surge-sh/introducing-surge-the-cdn-for-front-end-developers-b4a50a61bcfc#.3w0m44vir)
-
