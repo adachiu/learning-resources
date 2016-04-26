@@ -33,7 +33,7 @@ http://codepen.io/patterns
 * [Holy Grail Layout with CSS grid — CSS Grid Layout Module](http://bitsofco.de/holy-grail-layout-css-grid/)
 
 *** CSS Libraries ***
-* [https://codyhouse.co/library/]
+* [CodyHouse library](https://codyhouse.co/library/)
 * [Amburgers](https://jonsuh.com/hamburgers/) — CSS hamburger menus
 
 #### SVG ####
@@ -83,6 +83,7 @@ http://codepen.io/patterns
 #### iOS Design and Xcode ####
 * [design+code](https://designcode.io/learn) — Mengto Resource;
 * [Apple Swift](https://developer.apple.com/swift/resources/)
+* [Standford iTunes U Swift Course](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 * [Raywenderlich Tutorials](https://www.raywenderlich.com/) — Community
 * [Spec Specifics](http://spec.fm/specifics/8-pt-grid) — Guidelines (8 point grid)
 
