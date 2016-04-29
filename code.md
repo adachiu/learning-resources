@@ -133,6 +133,7 @@ http://codepen.io/patterns
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
 * [Ebooks](http://it-ebooks.info/)
 * [Glypths](https://css-tricks.com/snippets/html/glyphs/) — code snippets
+* [Data Visualization Catalogue](http://www.datavizcatalogue.com/)
 
 #### SEO ####
 * [Robots.txt](https://varvy.com/robottxt.html)

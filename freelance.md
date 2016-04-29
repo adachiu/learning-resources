@@ -13,3 +13,7 @@ Useful tools for Design freelancers
 
 * [FairyGodBoss](https://fairygodboss.com/) — Company reviews for women
 * [InHerSight](https://www.inhersight.com/) — Find better workplace for women
+
+#### Marketing ####
+
+* [Just Good Copy](http://www.goodemailcopy.com/)
