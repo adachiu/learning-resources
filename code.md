@@ -134,6 +134,7 @@ http://codepen.io/patterns
 * [Ebooks](http://it-ebooks.info/)
 * [Glypths](https://css-tricks.com/snippets/html/glyphs/) — code snippets
 * [Data Visualization Catalogue](http://www.datavizcatalogue.com/)
+* [Instant Logo Search](http://instantlogosearch.com/) — SVG + PNG
 
 #### SEO ####
 * [Robots.txt](https://varvy.com/robottxt.html)
