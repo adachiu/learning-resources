@@ -31,6 +31,7 @@ A collection of learning resources for Front-end Dev and Design.
 * [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 http://codepen.io/patterns
 * [Holy Grail Layout with CSS grid — CSS Grid Layout Module](http://bitsofco.de/holy-grail-layout-css-grid/)
+* [Flexbox Patterns](http://www.flexboxpatterns.com/)
 
 *** CSS Libraries ***
 * [CodyHouse library](https://codyhouse.co/library/)
