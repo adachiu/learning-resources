@@ -135,6 +135,7 @@ http://codepen.io/patterns
 * [Glypths](https://css-tricks.com/snippets/html/glyphs/) — code snippets
 * [Data Visualization Catalogue](http://www.datavizcatalogue.com/)
 * [Instant Logo Search](http://instantlogosearch.com/) — SVG + PNG
+* [Subtle Patterns](http://subtlepatterns.com/)
 
 #### SEO ####
 * [Robots.txt](https://varvy.com/robottxt.html)
