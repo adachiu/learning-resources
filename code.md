@@ -124,6 +124,7 @@ http://codepen.io/patterns
 * [bl.ocks.org](http://bl.ocks.org/)
 * [Techies Project](http://www.techiesproject.com/)
 * [GUI and HUD](http://www.hudsandguis.com/)
+* [Science Fiction Interfaces](http://sciencefictioninterfaces.tumblr.com/)
 
 #### Watch ####
 * [F8 Videos On Demand](https://developers.facebook.com/videos/)
