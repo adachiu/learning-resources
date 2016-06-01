@@ -138,6 +138,9 @@ http://codepen.io/patterns
 * [Instant Logo Search](http://instantlogosearch.com/) — SVG + PNG
 * [Subtle Patterns](http://subtlepatterns.com/)
 
+#### VR ####
+* [WebVR](https://webvr.info/)
+
 #### SEO ####
 * [Robots.txt](https://varvy.com/robottxt.html)
 * [Google Guideline Test](https://varvy.com/)
