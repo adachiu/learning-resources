@@ -86,6 +86,7 @@ http://codepen.io/patterns
 * [Apple Swift](https://developer.apple.com/swift/resources/)
 * [Standford iTunes U Swift Course](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 * [Raywenderlich Tutorials](https://www.raywenderlich.com/) — Community
+* [Learn Swift](http://www.learnswift.tips/) — Resource links
 * [Spec Specifics](http://spec.fm/specifics/8-pt-grid) — Guidelines (8 point grid)
 
 
