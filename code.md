@@ -32,6 +32,7 @@ A collection of learning resources for Front-end Dev and Design.
 http://codepen.io/patterns
 * [Holy Grail Layout with CSS grid — CSS Grid Layout Module](http://bitsofco.de/holy-grail-layout-css-grid/)
 * [Flexbox Patterns](http://www.flexboxpatterns.com/)
+* [Flexbox Grids](https://css-tricks.com/dont-overthink-flexbox-grids/)
 
 *** CSS Libraries ***
 * [CodyHouse library](https://codyhouse.co/library/)
