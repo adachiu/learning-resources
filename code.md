@@ -72,6 +72,7 @@ http://codepen.io/patterns
 #### Animation ####
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
 * [Easings](http://easings.net/)
+* [Discover and share moving interfaces](http://uyi.io/)
 
 #### Video, Gifs ####
 * [MtMograph summits](http://mtmograph.com/summits/)
@@ -127,7 +128,6 @@ http://codepen.io/patterns
 * [Techies Project](http://www.techiesproject.com/)
 * [GUI and HUD](http://www.hudsandguis.com/)
 * [Science Fiction Interfaces](http://sciencefictioninterfaces.tumblr.com/)
-* [Discover and share moving interfaces](http://uyi.io/)
 
 #### Watch ####
 * [F8 Videos On Demand](https://developers.facebook.com/videos/)
