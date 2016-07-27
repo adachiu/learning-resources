@@ -103,6 +103,7 @@ http://codepen.io/patterns
 * [Git Immersion](http://gitimmersion.com/)
 * [Git Hot Tips](http://wesbos.com/git-hot-tips/) — Wes Bos
 * [GitHowTo](https://githowto.com/)
+* [Think Like a Git](http://think-like-a-git.net/)
 
 #### Markdown ####
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
