@@ -134,6 +134,7 @@ http://codepen.io/patterns
 * [F8 Videos On Demand](https://developers.facebook.com/videos/)
 
 #### Resources ####
+* [San Francisco Collection of Tools](http://www.sansfrancis.co)
 * [Google Design](https://design.google.com/)
 * [Web Field Manual](http://webfieldmanual.com) — ***Design, Code, Guides***
 * [Ebooks](http://it-ebooks.info/)
