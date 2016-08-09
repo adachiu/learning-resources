@@ -3,6 +3,7 @@
 Useful tools for Design freelancers
 
 * [Hello Bonsai "The Freelance Stack"](https://www.hellobonsai.com/best-freelance-tools)
+* [Prospect Stack](https://attach.io/prospect-stack/)
 
 #### Guide ####
 
