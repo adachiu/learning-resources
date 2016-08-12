@@ -146,6 +146,9 @@ http://codepen.io/patterns
 #### VR ####
 * [WebVR](https://webvr.info/)
 
+#### AI ####
+*[Designer's AI Study Guide](http://www.hugeinc.com/ideas/perspective/the-designers-ai-study-guide)
+
 #### SEO ####
 * [Robots.txt](https://varvy.com/robottxt.html)
 * [Google Guideline Test](https://varvy.com/)
