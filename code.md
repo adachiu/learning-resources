@@ -6,6 +6,7 @@ A collection of learning resources for Front-end Dev and Design.
 ## Web Design ##
 * [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/)
 * [TheCodePlayer](http://thecodeplayer.com/) — Video Walkthroughs of cool stuff
+* [Learn the Web](https://learn-the-web.algonquindesign.ca/topics/) - Free learning
 
 #### Responsive Design ####
 * [Google Resizer](http://design.google.com/resizer/)
