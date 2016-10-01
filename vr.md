@@ -1,5 +1,8 @@
 # All Things VR #
 
+## Design for VR ##
+* [The UX of VR](http://www.uxofvr.com/) - Curated list of resources
+
 ## VR Library ##
 * [SketchFab 3D](https://sketchfab.com)
 
