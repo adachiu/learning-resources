@@ -23,3 +23,6 @@ Useful tools for Design freelancers
 #### Font for Commercial Use ####
 
 * [FontFabric](http://www.fontfabric.com/about/)
+
+#### Remote ####
+* [List of Remote Companies](https://github.com/Casumo/remote-jobs/blob/master/README.md)
