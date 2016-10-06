@@ -42,6 +42,7 @@ http://codepen.io/patterns
 
 #### SVG ####
 * [SVG icons How-To](http://fvsch.com/code/svg-icons/how-to/) — tutorial step by step
+* [SVG Optimizer](https://jakearchibald.github.io/svgomg/)
 
 #### Templating ####
 * [Liquid](https://github.com/Shopify/liquid/wiki#who-uses-liquid)
