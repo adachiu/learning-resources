@@ -75,7 +75,7 @@ http://codepen.io/patterns
 #### Animation ####
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
 * [Easings](http://easings.net/)
-* [Discover and share moving interfaces](http://uyi.io/)
+* [Discover and share moving interfaces Use Your Interface](http://uyi.io/)
 
 #### Video, Gifs ####
 * [MtMograph summits](http://mtmograph.com/summits/)
