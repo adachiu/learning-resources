@@ -65,6 +65,7 @@ http://codepen.io/patterns
 #### JS Frameworks and Libraries ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
 * [React Fundamentals Egghead.io](https://egghead.io/series/react-fundamentals) — free/paid
+* [React Tutorials - Getting Started](http://andrewhfarmer.com/getting-started-tutorials/)
 * [Three.js](http://threejs.org/) — 3D library, rendering 3D to HTML5, SVG, and WebGL
 * [D3](d3js.org) — Data visualization for web applications
 * [CDNjs](https://cdnjs.com/libraries)
