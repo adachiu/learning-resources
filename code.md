@@ -15,7 +15,6 @@ A collection of learning resources for Front-end Dev and Design.
 * [Responsive Resources (Brad Frost)](http://bradfrost.github.io/this-is-responsive/resources.html) — *** Large collection***
 * [Complete Guide to Grid — CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [PX, EM or REM Media Queries](http://zellwk.com/blog/media-query-units/)
-* [Simple CSS Media Queries](http://simplecss.eu/) - Copy and paste
 
 
 #### Style Guide ####
