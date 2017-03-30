@@ -113,6 +113,7 @@ http://codepen.io/patterns
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### Jekyll ####
+* [Fixing Jekyll Github Metadata Warning](http://mycyberuniverse.com/web/fixing-jekyll-github-metadata-warning.html)
 * [Jekyll Docs](https://jekyllrb.com/docs/home/)
 * [Explain Like I'm Five: Jekyll Collections](http://ben.balter.com/2015/02/20/jekyll-collections/)
 * [Jekyll Kickoff](https://github.com/jenmyers/jekyll-kickoff) — minimal beginner template
