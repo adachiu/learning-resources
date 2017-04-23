@@ -1,4 +1,4 @@
-# All Things VR #
+# All Things 360 #
 
 ## Courses and Tutorials ##
 * [Udacity Introduction to Virtual Reeality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012) Free
@@ -25,3 +25,9 @@
 
 ## Assets ##
 * [Kenney Free Assets](http://kenney.nl/)
+
+## Stock Footage ##
+* [Videezy](https://www.videezy.com/)
+
+## VFX ##
+* [MotionVFX](https://www.motionvfx.com)
