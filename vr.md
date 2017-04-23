@@ -31,3 +31,4 @@
 
 ## VFX ##
 * [MotionVFX](https://www.motionvfx.com)
+* [SimpleVideoMaking Freebie Plugins](http://simplevideomaking.com/freebies/)
