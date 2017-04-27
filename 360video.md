@@ -32,3 +32,6 @@
 ## VFX ##
 * [MotionVFX](https://www.motionvfx.com)
 * [SimpleVideoMaking Freebie Plugins](http://simplevideomaking.com/freebies/)
+
+## Free Resources ##
+* [FCPX Freebies](https://fcpxfree.com/)
