@@ -35,3 +35,6 @@
 
 ## Free Resources ##
 * [FCPX Freebies](https://fcpxfree.com/)
+
+## Sounds ##
+* [Jukedeck Musical AI](https://www.jukedeck.com/make) — Royalty Free
