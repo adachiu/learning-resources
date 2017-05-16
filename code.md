@@ -61,6 +61,7 @@ http://codepen.io/patterns
 * [Ultimate Guide to Learning AngularJS in One Day](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 * [JavaScript in HTML5 Dog Tutorials](http://www.htmldog.com/guides/javascript/)
 * [Speaking JavaScript Online Book](http://speakingjs.com/es5/)
+* [Framer Casts](https://www.framercasts.com/) —tutorials for Framer
 
 #### JS Frameworks and Libraries ####
 * [React.js Fundamentals Course](http://courses.reactjsprogram.com/courses/reactjsfundamentals) — free
