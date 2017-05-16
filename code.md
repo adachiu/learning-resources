@@ -75,6 +75,7 @@ http://codepen.io/patterns
 ## Motion ##
 
 #### Animation ####
+* [Shape Shifter](https://shapeshifter.design) — CSS animation creator
 * [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
 * [Easings](http://easings.net/)
 * [Discover and share moving interfaces Use Your Interface](http://uyi.io/)
