@@ -3,6 +3,7 @@
 ## Courses and Tutorials ##
 * [Udacity Introduction to Virtual Reeality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012) Free
 * [Udacity VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013) Free
+* [VR Dev School](http://learn.vrdev.school/courses) — Some free mini courses
 
 ## Reading Resources ##
 * [Google CodeLab](https://codelabs.developers.google.com/codelabs/vr_view_101)
