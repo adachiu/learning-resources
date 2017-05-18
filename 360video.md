@@ -7,9 +7,6 @@
 * [VR Dev School](http://learn.vrdev.school/courses) — Some free mini courses
 * [FCPX Freebies](https://fcpxfree.com/)
 
-## Rendering ##
-* [UNREAL ENGINE](https://www.unrealengine.com)
-
 ## Read ##
 * [Medium - Virtual Reality](https://medium.com/search?q=virtual%20reality)
 * [UploadVR](https://uploadvr.com/)
@@ -19,9 +16,18 @@
 ## Design for VR ##
 * [The UX of VR](http://www.uxofvr.com/) - Curated list of resources
 
+## 360 Content ##
+* [JauntVR](https://www.jauntvr.com/)
+
+## Watch ##
+* [TED Talks for VR](https://www.ted.com/search?q=virtual+reality)
+
 ## Tools ##
 * [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR_)
 * [Mobile VR app](https://itunes.apple.com/us/app/mobile-vr-station/id959820493?mt=8)
+
+## Rendering ##
+* [UNREAL ENGINE](https://www.unrealengine.com)
 
 ## Framework ##
 * [MOZVR](https://mozvr.com/) - MozVR’s open-source framework
@@ -30,9 +36,7 @@
 ## Assets ##
 * [Kenney Free Assets](http://kenney.nl/)
 * [SketchFab 3D](https://sketchfab.com)
-
-## Stock Footage ##
-* [Videezy](https://www.videezy.com/)
+* [Videezy](https://www.videezy.com/) — Stock footage
 
 ## VFX ##
 * [MotionVFX](https://www.motionvfx.com)
