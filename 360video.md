@@ -21,9 +21,7 @@
 
 ## Tools ##
 * [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR_)
-
-#### Viewing ####
-* [Moblie VR app](https://itunes.apple.com/us/app/mobile-vr-station/id959820493?mt=8)
+* [Mobile VR app](https://itunes.apple.com/us/app/mobile-vr-station/id959820493?mt=8)
 
 ## Framework ##
 * [MOZVR](https://mozvr.com/) - MozVR’s open-source framework
