@@ -18,6 +18,7 @@
 
 ## 360 Content ##
 * [JauntVR](https://www.jauntvr.com/)
+* [SamsungVR](https://samsungvr.com/)
 
 ## Watch ##
 * [TED Talks for VR](https://www.ted.com/search?q=virtual+reality)
