@@ -1,18 +1,23 @@
-# All Things 360 #
+# 360 Video, VR, AR #
 
 ## Courses and Tutorials ##
+* [Unity Tutorials](https://unity3d.com/learn/tutorials)
 * [Udacity Introduction to Virtual Reeality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012) Free
 * [Udacity VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013) Free
 * [VR Dev School](http://learn.vrdev.school/courses) — Some free mini courses
+* [FCPX Freebies](https://fcpxfree.com/)
 
-## Reading Resources ##
+## Rendering ##
+* [UNREAL ENGINE](https://www.unrealengine.com)
+
+## Read ##
+* [Medium - Virtual Reality](https://medium.com/search?q=virtual%20reality)
+* [UploadVR](https://uploadvr.com/)
+* [Road to VR](http://www.roadtovr.com/)
 * [Google CodeLab](https://codelabs.developers.google.com/codelabs/vr_view_101)
 
 ## Design for VR ##
 * [The UX of VR](http://www.uxofvr.com/) - Curated list of resources
-
-## VR Library ##
-* [SketchFab 3D](https://sketchfab.com)
 
 ## Tools ##
 * [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR_)
@@ -26,6 +31,7 @@
 
 ## Assets ##
 * [Kenney Free Assets](http://kenney.nl/)
+* [SketchFab 3D](https://sketchfab.com)
 
 ## Stock Footage ##
 * [Videezy](https://www.videezy.com/)
@@ -33,9 +39,6 @@
 ## VFX ##
 * [MotionVFX](https://www.motionvfx.com)
 * [SimpleVideoMaking Freebie Plugins](http://simplevideomaking.com/freebies/)
-
-## Free Resources ##
-* [FCPX Freebies](https://fcpxfree.com/)
 
 ## Sounds ##
 * [Jukedeck Musical AI](https://www.jukedeck.com/make) — Royalty Free
