@@ -19,20 +19,23 @@
 ## 360 Content ##
 * [JauntVR](https://www.jauntvr.com/)
 * [SamsungVR](https://samsungvr.com/)
+* [Discovery VR](http://www.discoveryvr.com/)
 
 ## Watch ##
 * [TED Talks for VR](https://www.ted.com/search?q=virtual+reality)
 
 ## Tools ##
+* [Facebook VR Resources](http://facebook.design/vr)
 * [Sketch to VR](https://github.com/auxdesigner/Sketch-to-VR_)
 * [Mobile VR app](https://itunes.apple.com/us/app/mobile-vr-station/id959820493?mt=8)
 
 ## Rendering ##
 * [UNREAL ENGINE](https://www.unrealengine.com)
 
-## Framework ##
+## WebVR ##
 * [MOZVR](https://mozvr.com/) - MozVR’s open-source framework
 * [A-FRAME](https://aframe.io/) — A web framework for bulding virtual reality experiences
+* [Google WebVR Experiences](https://www.webvrexperiments.com/)
 
 ## Assets ##
 * [Kenney Free Assets](http://kenney.nl/)
@@ -47,3 +50,6 @@
 * [Jukedeck Musical AI](https://www.jukedeck.com/make) — Royalty Free
 * [Wave Audio](http://wavy.audio/) — Creative Commons Zero
 * [rcptones](http://rcptones.com/dev_tones) — Professional royalty-free sounds for your app. (Free or buy $35 for 500 sounds)
+
+## Misc ##
+* [VR Lens Lab](https://vr-lens-lab.com/)
