@@ -76,7 +76,7 @@ http://codepen.io/patterns
 
 #### Animation ####
 * [Shape Shifter](https://shapeshifter.design) — CSS animation creator
-* [Layout Library — SamsaraJS](http://samsarajs.org/) — Animate layout
+* [Animista](http://animista.net/play/basic) — Code snippets of shape and text animation
 * [Easings](http://easings.net/)
 * [Discover and share moving interfaces Use Your Interface](http://uyi.io/)
 
