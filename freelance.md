@@ -23,6 +23,7 @@ Useful tools for Design freelancers
 #### Font for Commercial Use ####
 
 * [FontFabric](http://www.fontfabric.com/about/)
+* [Chinese Fonts](https://chinesefontdesign.com/tag/traditional-chinese-font)
 
 #### Remote ####
 * [List of Remote Companies](https://github.com/Casumo/remote-jobs/blob/master/README.md)
