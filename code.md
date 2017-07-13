@@ -97,6 +97,9 @@ http://codepen.io/patterns
 * [Learn Swift](http://www.learnswift.tips/) — Resource links
 * [Spec Specifics](http://spec.fm/specifics/8-pt-grid) — Guidelines (8 point grid)
 
+#### iOS Code ####
+* [Fastlane check app before submitting to AppStore](https://fabric.io/blog/introducing-fastlane-precheck)
+
 
 ## Command Line ##
 * [Zed Shaw's The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
