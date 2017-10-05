@@ -18,7 +18,7 @@ Useful tools for Design freelancers
 #### Marketing ####
 
 * [Just Good Copy](http://www.goodemailcopy.com/)
-* 
+* [Really Good Emails](https://reallygoodemails.com/)
 
 #### Font for Commercial Use ####
 
